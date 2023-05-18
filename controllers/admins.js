@@ -66,14 +66,9 @@ export const editeAdmin = (req,res) => {
 
         if (idx != -1) {
             let newObj = req.body;
-            if (newObj.Department == "" || parseInt(newObj.Department) < Department.length) {
                 newObj.id = Admin[idx].id;
-                mapDep(newObj);
                 Admin[idx] = newObj;
-                res.send(newObj);
-            } else {
-                res.status(400).send("Enter valid Department id");
-            }
+                res.send(newObj); 
         } else {
             res.status(404).send("Status: Not found");
         }
