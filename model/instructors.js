@@ -4,14 +4,42 @@ let Instructors = [
         "name" : "Ahmed Mabrouk",
         "email" : "ahmed@gmail.com",
         "password" : "123456789",
-        "Department" : "CS"
+        "Department" : "1"
     },
     {
         "id" : 1,
-        "name" : "Ahmed Mabrouk",
-        "email" : "ahmed@gmail.com",
+        "name" : "Asem Hisham",
+        "email" : "asem@gmail.com",
         "password" : "123456789",
-        "Department" : "IS"
+        "Department" : "0"
+    },
+    {
+        "id" : 2,
+        "name" : "Mahmoud Abdelhakam",
+        "email" : "Mahmoud@gmail.com",
+        "password" : "123456789",
+        "Department" : "2"
+    },
+    {
+        "id" : 3,
+        "name" : "Mazen Sami",
+        "email" : "Mazen@gmail.com",
+        "password" : "123456789",
+        "Department" : "3"
+    },
+    {
+        "id" : 3,
+        "name" : "Mohamed Khalifa",
+        "email" : "Khalifa@gmail.com",
+        "password" : "123456789",
+        "Department" : "0"
+    },
+    {
+        "id" : 3,
+        "name" : "Mohamed Hatem",
+        "email" : "Hatem@gmail.com",
+        "password" : "123456789",
+        "Department" : "2"
     }
 ]
 

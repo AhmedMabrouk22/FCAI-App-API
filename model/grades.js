@@ -1,46 +1,83 @@
 let Grades = [
     {
         "Student id" : 0,
-        "Student name" : "Ahmed Mabrouk",
         "cources" : [
             {
-                "Course name" : "Computer Programming - 1",
+                "Course ID" : "CS307",
                 "Grade" : 100
             },
             {
-                "Course name" : "Fundamentals of Programming",
+                "Course ID" : "CS313",
                 "Grade" : 100
             },
         ],
     },
     {
-        "Student id" : 0,
-        "Student name" : "Ahmed Mabrouk",
+        "Student id" : 1,
         "cources" : [
             {
-                "Course name" : "Computer Programming - 1",
+                "Course ID" : "CS307",
                 "Grade" : 100
             },
             {
-                "Course name" : "Fundamentals of Programming",
+                "Course ID" : "CS313",
                 "Grade" : 100
             },
         ],
     },
     {
-        "Student id" : 0,
-        "Student name" : "Ahmed Mabrouk",
+        "Student id" : 2,
         "cources" : [
             {
-                "Course name" : "Computer Programming - 1",
+                "Course ID" : "CS307",
                 "Grade" : 100
             },
             {
-                "Course name" : "Fundamentals of Programming",
+                "Course ID" : "CS313",
                 "Grade" : 100
             },
         ],
     },
+    {
+        "Student id" : 3,
+        "cources" : [
+            {
+                "Course ID" : "CS307",
+                "Grade" : 100
+            },
+            {
+                "Course ID" : "CS313",
+                "Grade" : 100
+            },
+        ],
+    },
+    {
+        "Student id" : 4,
+        "cources" : [
+            {
+                "Course ID" : "CS307",
+                "Grade" : 100
+            },
+            {
+                "Course ID" : "CS313",
+                "Grade" : 100
+            },
+        ],
+    },
+    {
+        "Student id" : 5,
+        "cources" : [
+            {
+                "Course ID" : "CS307",
+                "Grade" : 100
+            },
+            {
+                "Course ID" : "CS313",
+                "Grade" : 100
+            },
+        ],
+    },
+    
 ]
 
 export default Grades;
